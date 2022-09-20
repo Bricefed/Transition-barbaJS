@@ -1,0 +1,23 @@
+{
+  "name": "BarbaJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bricefed/Transition-barbaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bricefed/Transition-barbaJS/issues"
+  },
+  "homepage": "https://github.com/Bricefed/Transition-barbaJS#readme",
+  "dependencies": {
+    "sass": "^1.54.9"
+  }
+}
